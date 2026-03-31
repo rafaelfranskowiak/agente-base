@@ -1,0 +1,128 @@
+{
+    "id": "evt_01km1pf943ywtgfmmkstdw9nqj",
+    "me": {
+        "id": "555195702527@c.us",
+        "jid": "555195702527:30@s.whatsapp.net",
+        "lid": "187179103961088@lid",
+        "pushName": "Rafael Franskowiak"
+    },
+    "event": "message.any",
+    "payload": {
+        "id": "false_555199805553@c.us_3EB009BFA923AE76F702ED",
+        "to": null,
+        "ack": 2,
+        "body": "oi",
+        "from": "555199805553@c.us",
+        "_data": {
+            "Info": {
+                "ID": "3EB009BFA923AE76F702ED",
+                "Chat": "555199805553@s.whatsapp.net",
+                "Edit": "",
+                "Type": "text",
+                "Sender": "555199805553:24@s.whatsapp.net",
+                "IsGroup": false,
+                "Category": "",
+                "IsFromMe": false,
+                "PushName": "Rafael Franskowiak",
+                "ServerID": 0,
+                "MediaType": "",
+                "Multicast": false,
+                "SenderAlt": "184216029507679:24@lid",
+                "Timestamp": "2026-03-18T21:03:37-03:00",
+                "MsgBotInfo": {
+                    "EditType": "",
+                    "EditTargetID": "",
+                    "EditSenderTimestampMS": "0001-01-01T00:00:00Z"
+                },
+                "MsgMetaInfo": {
+                    "TargetID": "",
+                    "TargetChat": "",
+                    "TargetSender": "",
+                    "ThreadMessageID": "",
+                    "DeprecatedLIDSession": null,
+                    "ThreadMessageSenderJID": ""
+                },
+                "RecipientAlt": "",
+                "VerifiedName": null,
+                "AddressingMode": "",
+                "DeviceSentMeta": null,
+                "BroadcastListOwner": "",
+                "BroadcastRecipients": null
+            },
+            "IsEdit": false,
+            "Status": 3,
+            "Message": {
+                "conversation": "oi",
+                "messageContextInfo": {
+                    "messageSecret": "Z72mdqY2osx6l6vcPDQ97WkRjpT4ve76gY3vsM/qZeM=",
+                    "limitSharingV2": {
+                        "trigger": 0,
+                        "initiatedByMe": false
+                    },
+                    "deviceListMetadata": {
+                        "senderKeyHash": "ceiUi9YLgl7fKA==",
+                        "senderTimestamp": 1773272739,
+                        "recipientKeyHash": "E4oF886+3ZHdVQ==",
+                        "senderAccountType": 0,
+                        "recipientTimestamp": 1773878328,
+                        "receiverAccountType": 0
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "IsViewOnce": false,
+            "RawMessage": {
+                "conversation": "oi",
+                "messageContextInfo": {
+                    "messageSecret": "Z72mdqY2osx6l6vcPDQ97WkRjpT4ve76gY3vsM/qZeM=",
+                    "limitSharingV2": {
+                        "trigger": 0,
+                        "initiatedByMe": false
+                    },
+                    "deviceListMetadata": {
+                        "senderKeyHash": "ceiUi9YLgl7fKA==",
+                        "senderTimestamp": 1773272739,
+                        "recipientKeyHash": "E4oF886+3ZHdVQ==",
+                        "senderAccountType": 0,
+                        "recipientTimestamp": 1773878328,
+                        "receiverAccountType": 0
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "RetryCount": 0,
+            "IsBotInvoke": false,
+            "IsEphemeral": false,
+            "IsViewOnceV2": false,
+            "SourceWebMsg": null,
+            "NewsletterMeta": null,
+            "IsLottieSticker": false,
+            "UnavailableRequestID": "",
+            "IsDocumentWithCaption": false,
+            "IsViewOnceV2Extension": false
+        },
+        "media": null,
+        "fromMe": false,
+        "source": "app",
+        "vCards": null,
+        "ackName": "DEVICE",
+        "replyTo": null,
+        "hasMedia": false,
+        "location": null,
+        "timestamp": 1773878617,
+        "participant": null
+    },
+    "session": "rafaelwizer",
+    "metadata": {},
+    "timestamp": 1773878617219,
+    "environment": {
+        "tier": "PLUS",
+        "engine": "GOWS",
+        "worker": {
+            "id": null
+        },
+        "browser": null,
+        "version": "2026.3.2",
+        "platform": "linux/x64"
+    }
+}

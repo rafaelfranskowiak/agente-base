@@ -1,0 +1,175 @@
+{
+    "id": "evt_01km69ehtrmhk7k0qr0ah4eanw",
+    "me": {
+        "id": "555180245305@c.us",
+        "jid": "555180245305:50@s.whatsapp.net",
+        "lid": "240144942678061@lid",
+        "pushName": "Wizer02"
+    },
+    "event": "message.any",
+    "payload": {
+        "id": "false_187179103961088@lid_A58218A0A40373F40E425D57C084FA9B",
+        "to": null,
+        "ack": 2,
+        "from": "187179103961088@lid",
+        "_data": {
+            "Info": {
+                "ID": "A58218A0A40373F40E425D57C084FA9B",
+                "Chat": "187179103961088@lid",
+                "Edit": "",
+                "Type": "media",
+                "Sender": "187179103961088@lid",
+                "IsGroup": false,
+                "Category": "",
+                "IsFromMe": false,
+                "PushName": "Rafael Franskowiak",
+                "ServerID": 0,
+                "MediaType": "document",
+                "Multicast": false,
+                "SenderAlt": "555195702527@s.whatsapp.net",
+                "Timestamp": "2026-03-20T15:52:13-03:00",
+                "MsgBotInfo": {
+                    "EditType": "",
+                    "EditTargetID": "",
+                    "EditSenderTimestampMS": "0001-01-01T00:00:00Z"
+                },
+                "MsgMetaInfo": {
+                    "TargetID": "",
+                    "TargetChat": "",
+                    "TargetSender": "",
+                    "ThreadMessageID": "",
+                    "DeprecatedLIDSession": null,
+                    "ThreadMessageSenderJID": ""
+                },
+                "RecipientAlt": "",
+                "VerifiedName": {
+                    "Details": {
+                        "issuer": "smb:wa",
+                        "serial": 6968926277353474000,
+                        "verifiedName": "Rafael Franskowiak"
+                    },
+                    "Certificate": {
+                        "details": "CNSTqNzrsKbbYBIGc21iOndhIhJSYWZhZWwgRnJhbnNrb3dpYWs=",
+                        "signature": "NmvtW+OG4ntzq/NqGsSo3owmgauLTwOMbu7rXwha509I90OsCtsYEwrAkUTFSUc0/vQlxIMBfQOtNtgB9EDGDw=="
+                    }
+                },
+                "AddressingMode": "",
+                "DeviceSentMeta": null,
+                "BroadcastListOwner": "",
+                "BroadcastRecipients": null
+            },
+            "IsEdit": false,
+            "Status": 3,
+            "Message": {
+                "documentMessage": {
+                    "URL": "https://mmg.whatsapp.net/v/t62.7119-24/559860377_941138668421293_3919165139827416698_n.enc?ccb=11-4&oh=01_Q5Aa4AF_50yTCubvXfnryNTblUpUbul_BsXOtKAc17HAQQZ9nw&oe=69E4F74A&_nc_sid=5e03e0&mms3=true",
+                    "fileName": "20260130010324.pdf",
+                    "mediaKey": "WCvvc9HXfyLvSLLnnoggFh8D24MRJBHBRjgETrNMPmU=",
+                    "mimetype": "application/pdf",
+                    "pageCount": 1,
+                    "directPath": "/v/t62.7119-24/559860377_941138668421293_3919165139827416698_n.enc?ccb=11-4&oh=01_Q5Aa4AF_50yTCubvXfnryNTblUpUbul_BsXOtKAc17HAQQZ9nw&oe=69E4F74A&_nc_sid=5e03e0",
+                    "fileLength": 25503,
+                    "fileSHA256": "/dQfxANkPoCr7qlQB0RudDIRo4+MbLsN2FwAj844QCA=",
+                    "contextInfo": {
+                        "mediaDomainInfo": {
+                            "e2EeMediaKey": "WCvvc9HXfyLvSLLnnoggFh8D24MRJBHBRjgETrNMPmU=",
+                            "mediaKeyDomain": 1
+                        }
+                    },
+                    "JPEGThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABERERESERMVFRMaHBkcGiYjICAjJjoqLSotKjpYN0A3N0A3WE5fTUhNX06MbmJiboyiiIGIosWwsMX46/j///8BERERERIRExUVExocGRwaJiMgICMmOiotKi0qOlg3QDc3QDdYTl9NSE1fToxuYmJujKKIgYiixbCwxfjr+P/////CABEIAGAARAMBIgACEQEDEQH/xAArAAEBAQEBAQAAAAAAAAAAAAAAAQMCBAYBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPvOL5jfpRQAAksOXWB6WWoABFHGe4y0olAAAAAAAAAAAAAAAAD/xAAwEAACAQIEAgYLAQAAAAAAAAABAgADEQQSITEgIjJRUlOBogUTIzNBQkNQYmNxof/aAAgBAQABPwAmwJjYkmkXK7bgQ+kMoF6J1FxzCJji1rYd7H46cWM2Ua+BtKRRTzBrEdZIlZUWmGC32tKdStUHKE/2e2/CLm+a3hwYspZMwO8pVDTWwouY7h1s6Mg6zKZwynMWuZ66l2xFdWNgb8GLKjJcHeJVZR7qoTHyvS5wVF5kw/bl6Y+sZTII0bNwVlvl0OnVFcrurmOS62yNBTC2srTm/ZFZlHRYwMSeiRwsHJ5Xt4QLUBF6lx/IUrd95Zkrd95fvX//xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAECAQE/AHf/xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAEDAQE/AHf/2Q==",
+                    "fileEncSHA256": "1vSMJvhysY6TMgvNRpe8+D0WNwnNDtHoDaeMLqKdO9E=",
+                    "thumbnailWidth": 339,
+                    "thumbnailHeight": 480,
+                    "thumbnailSHA256": "qVSsqQC1520m6i3C/7GqIIgdwq7U9JaZVTMdk8pWvRY=",
+                    "mediaKeyTimestamp": 1774032730,
+                    "thumbnailEncSHA256": "e6GwSnTEYxwYaZVkHWxBjYgHumArJ2b5OYbpKhkTmSM=",
+                    "thumbnailDirectPath": "/v/t62.36145-24/612312172_1580374086520394_387087844577961681_n.enc?ccb=11-4&oh=01_Q5Aa4AHHmr0UjRbNb_4xQopDxx5yytY4fJC_X3J4MR8aFXSeog&oe=69E51CD2&_nc_sid=5e03e0"
+                },
+                "messageContextInfo": {
+                    "messageSecret": "/HFZEBXMy/I9stB2SIeyJsm7gBsAl9on+rveOpgikIg=",
+                    "deviceListMetadata": {
+                        "senderKeyHash": "cKWGYodZBE57bA==",
+                        "senderTimestamp": 1773932831,
+                        "recipientKeyHash": "KFUSrTv1vzseHA==",
+                        "recipientTimestamp": 1774023753
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "IsViewOnce": false,
+            "RawMessage": {
+                "documentMessage": {
+                    "URL": "https://mmg.whatsapp.net/v/t62.7119-24/559860377_941138668421293_3919165139827416698_n.enc?ccb=11-4&oh=01_Q5Aa4AF_50yTCubvXfnryNTblUpUbul_BsXOtKAc17HAQQZ9nw&oe=69E4F74A&_nc_sid=5e03e0&mms3=true",
+                    "fileName": "20260130010324.pdf",
+                    "mediaKey": "WCvvc9HXfyLvSLLnnoggFh8D24MRJBHBRjgETrNMPmU=",
+                    "mimetype": "application/pdf",
+                    "pageCount": 1,
+                    "directPath": "/v/t62.7119-24/559860377_941138668421293_3919165139827416698_n.enc?ccb=11-4&oh=01_Q5Aa4AF_50yTCubvXfnryNTblUpUbul_BsXOtKAc17HAQQZ9nw&oe=69E4F74A&_nc_sid=5e03e0",
+                    "fileLength": 25503,
+                    "fileSHA256": "/dQfxANkPoCr7qlQB0RudDIRo4+MbLsN2FwAj844QCA=",
+                    "contextInfo": {
+                        "mediaDomainInfo": {
+                            "e2EeMediaKey": "WCvvc9HXfyLvSLLnnoggFh8D24MRJBHBRjgETrNMPmU=",
+                            "mediaKeyDomain": 1
+                        }
+                    },
+                    "JPEGThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABERERESERMVFRMaHBkcGiYjICAjJjoqLSotKjpYN0A3N0A3WE5fTUhNX06MbmJiboyiiIGIosWwsMX46/j///8BERERERIRExUVExocGRwaJiMgICMmOiotKi0qOlg3QDc3QDdYTl9NSE1fToxuYmJujKKIgYiixbCwxfjr+P/////CABEIAGAARAMBIgACEQEDEQH/xAArAAEBAQEBAQAAAAAAAAAAAAAAAQMCBAYBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPvOL5jfpRQAAksOXWB6WWoABFHGe4y0olAAAAAAAAAAAAAAAAD/xAAwEAACAQIEAgYLAQAAAAAAAAABAgADEQQSITEgIjJRUlOBogUTIzNBQkNQYmNxof/aAAgBAQABPwAmwJjYkmkXK7bgQ+kMoF6J1FxzCJji1rYd7H46cWM2Ua+BtKRRTzBrEdZIlZUWmGC32tKdStUHKE/2e2/CLm+a3hwYspZMwO8pVDTWwouY7h1s6Mg6zKZwynMWuZ66l2xFdWNgb8GLKjJcHeJVZR7qoTHyvS5wVF5kw/bl6Y+sZTII0bNwVlvl0OnVFcrurmOS62yNBTC2srTm/ZFZlHRYwMSeiRwsHJ5Xt4QLUBF6lx/IUrd95Zkrd95fvX//xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAECAQE/AHf/xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAEDAQE/AHf/2Q==",
+                    "fileEncSHA256": "1vSMJvhysY6TMgvNRpe8+D0WNwnNDtHoDaeMLqKdO9E=",
+                    "thumbnailWidth": 339,
+                    "thumbnailHeight": 480,
+                    "thumbnailSHA256": "qVSsqQC1520m6i3C/7GqIIgdwq7U9JaZVTMdk8pWvRY=",
+                    "mediaKeyTimestamp": 1774032730,
+                    "thumbnailEncSHA256": "e6GwSnTEYxwYaZVkHWxBjYgHumArJ2b5OYbpKhkTmSM=",
+                    "thumbnailDirectPath": "/v/t62.36145-24/612312172_1580374086520394_387087844577961681_n.enc?ccb=11-4&oh=01_Q5Aa4AHHmr0UjRbNb_4xQopDxx5yytY4fJC_X3J4MR8aFXSeog&oe=69E51CD2&_nc_sid=5e03e0"
+                },
+                "messageContextInfo": {
+                    "messageSecret": "/HFZEBXMy/I9stB2SIeyJsm7gBsAl9on+rveOpgikIg=",
+                    "deviceListMetadata": {
+                        "senderKeyHash": "cKWGYodZBE57bA==",
+                        "senderTimestamp": 1773932831,
+                        "recipientKeyHash": "KFUSrTv1vzseHA==",
+                        "recipientTimestamp": 1774023753
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "RetryCount": 0,
+            "IsBotInvoke": false,
+            "IsEphemeral": false,
+            "IsViewOnceV2": false,
+            "SourceWebMsg": null,
+            "NewsletterMeta": null,
+            "IsLottieSticker": false,
+            "UnavailableRequestID": "",
+            "IsDocumentWithCaption": false,
+            "IsViewOnceV2Extension": false
+        },
+        "media": {
+            "url": "https://zap.wizerdigital.tec.br/api/files/0c1608b5-4f3b-479f-859e-b7df3d1bc1c4/A58218A0A40373F40E425D57C084FA9B.pdf",
+            "filename": "20260130010324.pdf",
+            "mimetype": "application/pdf"
+        },
+        "fromMe": false,
+        "source": "app",
+        "vCards": null,
+        "ackName": "DEVICE",
+        "replyTo": null,
+        "hasMedia": true,
+        "location": null,
+        "timestamp": 1774032733,
+        "participant": null
+    },
+    "session": "0c1608b5-4f3b-479f-859e-b7df3d1bc1c4",
+    "metadata": {},
+    "timestamp": 1774032734040,
+    "environment": {
+        "tier": "PLUS",
+        "engine": "GOWS",
+        "worker": {
+            "id": null
+        },
+        "browser": null,
+        "version": "2026.3.2",
+        "platform": "linux/x64"
+    }
+}

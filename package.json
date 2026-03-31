@@ -1,0 +1,29 @@
+{
+  "name": "agente-waha",
+  "version": "1.0.0",
+  "description": "Agente conversacional escal�vel com WAHA, OpenAI, BullMQ, PostgreSQL e Redis",
+  "main": "src/api/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/api/index.js",
+    "worker": "node src/agent/worker.js",
+    "scanner": "node src/background/scanner.js",
+    "notifications": "node src/background/notifications.js",
+    "dev": "concurrently \"npm run start\" \"npm run worker\" \"npm run scanner\" \"npm run notifications\"",
+    "tunnel": "ssh -o StrictHostKeyChecking=no -R 80:localhost:3001 nokey@localhost.run"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bullmq": "^5.7.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ioredis": "^5.3.2",
+    "node-cron": "^3.0.3",
+    "openai": "^4.38.0",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.11.5"
+  }
+}

@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: agent_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: ${DB_USER:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
+      POSTGRES_DB: ${DB_NAME:-agent_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - network_swarm_public
+
+  redis:
+    image: redis:7-alpine
+    container_name: agent_redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - network_swarm_public
+
+  adminer:
+    image: adminer
+    container_name: agent_adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      ADMINER_DEFAULT_SERVER: postgres
+      ADMINER_DESIGN: hydra
+    depends_on:
+      - postgres
+    networks:
+      - network_swarm_public
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  network_swarm_public:
+    external: true

@@ -1,0 +1,100 @@
+{
+    "id": "evt_01km3g33s3mefc9kehsv0v9039",
+    "me": {
+        "id": "555199805553@c.us",
+        "jid": "555199805553:27@s.whatsapp.net",
+        "lid": "184216029507679@lid",
+        "pushName": "Rafael Franskowiak"
+    },
+    "event": "message.any",
+    "payload": {
+        "id": "true_30417075855579@lid_3EB092D00CB047B1D338B2",
+        "to": null,
+        "ack": 1,
+        "body": "Como posso ajudar você hoje?",
+        "from": "30417075855579@lid",
+        "_data": {
+            "Info": {
+                "ID": "3EB092D00CB047B1D338B2",
+                "Chat": "30417075855579@lid",
+                "Edit": "",
+                "Type": "",
+                "Sender": "555199805553:27@s.whatsapp.net",
+                "IsGroup": false,
+                "Category": "",
+                "IsFromMe": true,
+                "PushName": "",
+                "ServerID": 0,
+                "MediaType": "",
+                "Multicast": false,
+                "SenderAlt": "",
+                "Timestamp": "2026-03-19T13:50:35-03:00",
+                "MsgBotInfo": {
+                    "EditType": "",
+                    "EditTargetID": "",
+                    "EditSenderTimestampMS": "0001-01-01T00:00:00Z"
+                },
+                "MsgMetaInfo": {
+                    "TargetID": "",
+                    "TargetChat": "",
+                    "TargetSender": "",
+                    "ThreadMessageID": "",
+                    "DeprecatedLIDSession": null,
+                    "ThreadMessageSenderJID": ""
+                },
+                "RecipientAlt": "",
+                "VerifiedName": null,
+                "AddressingMode": "",
+                "DeviceSentMeta": null,
+                "BroadcastListOwner": "",
+                "BroadcastRecipients": null
+            },
+            "IsEdit": false,
+            "Status": 2,
+            "Message": {
+                "extendedTextMessage": {
+                    "text": "Como posso ajudar você hoje?"
+                }
+            },
+            "IsViewOnce": false,
+            "RawMessage": {
+                "extendedTextMessage": {
+                    "text": "Como posso ajudar você hoje?"
+                }
+            },
+            "RetryCount": 0,
+            "IsBotInvoke": false,
+            "IsEphemeral": false,
+            "IsViewOnceV2": false,
+            "SourceWebMsg": null,
+            "NewsletterMeta": null,
+            "IsLottieSticker": false,
+            "UnavailableRequestID": "",
+            "IsDocumentWithCaption": false,
+            "IsViewOnceV2Extension": false
+        },
+        "media": null,
+        "fromMe": true,
+        "source": "api",
+        "vCards": null,
+        "ackName": "SERVER",
+        "replyTo": null,
+        "hasMedia": false,
+        "location": null,
+        "timestamp": 1773939035,
+        "participant": null
+    },
+    "session": "0583fb3f-eedb-4f44-83e9-c41961d79402",
+    "metadata": {},
+    "timestamp": 1773939035939,
+    "environment": {
+        "tier": "PLUS",
+        "engine": "GOWS",
+        "worker": {
+            "id": null
+        },
+        "browser": null,
+        "version": "2026.3.2",
+        "platform": "linux/x64"
+    }
+}

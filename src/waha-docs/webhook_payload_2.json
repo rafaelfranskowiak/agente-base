@@ -1,0 +1,144 @@
+{
+    "id": "evt_01km1pfd0p8w1ca9cps46b013n",
+    "me": {
+        "id": "555195702527@c.us",
+        "jid": "555195702527:30@s.whatsapp.net",
+        "lid": "187179103961088@lid",
+        "pushName": "Rafael Franskowiak"
+    },
+    "event": "message.any",
+    "payload": {
+        "id": "true_184216029507679@lid_A598F8C55FB374722935BF2181D39DA5",
+        "to": null,
+        "ack": 1,
+        "body": "Ola",
+        "from": "184216029507679@lid",
+        "_data": {
+            "Info": {
+                "ID": "A598F8C55FB374722935BF2181D39DA5",
+                "Chat": "184216029507679@lid",
+                "Edit": "",
+                "Type": "text",
+                "Sender": "187179103961088@lid",
+                "IsGroup": false,
+                "Category": "",
+                "IsFromMe": true,
+                "PushName": "Rafael Franskowiak",
+                "ServerID": 0,
+                "MediaType": "",
+                "Multicast": false,
+                "SenderAlt": "",
+                "Timestamp": "2026-03-18T21:03:41-03:00",
+                "MsgBotInfo": {
+                    "EditType": "",
+                    "EditTargetID": "",
+                    "EditSenderTimestampMS": "0001-01-01T00:00:00Z"
+                },
+                "MsgMetaInfo": {
+                    "TargetID": "",
+                    "TargetChat": "",
+                    "TargetSender": "",
+                    "ThreadMessageID": "",
+                    "DeprecatedLIDSession": null,
+                    "ThreadMessageSenderJID": ""
+                },
+                "RecipientAlt": "555199805553@s.whatsapp.net",
+                "VerifiedName": {
+                    "Details": {
+                        "issuer": "smb:wa",
+                        "serial": 6968926277353474000,
+                        "verifiedName": "Rafael Franskowiak"
+                    },
+                    "Certificate": {
+                        "details": "CNSTqNzrsKbbYBIGc21iOndhIhJSYWZhZWwgRnJhbnNrb3dpYWs=",
+                        "signature": "NmvtW+OG4ntzq/NqGsSo3owmgauLTwOMbu7rXwha509I90OsCtsYEwrAkUTFSUc0/vQlxIMBfQOtNtgB9EDGDw=="
+                    }
+                },
+                "AddressingMode": "",
+                "DeviceSentMeta": {
+                    "Phash": "",
+                    "DestinationJID": "184216029507679@lid"
+                },
+                "BroadcastListOwner": "",
+                "BroadcastRecipients": null
+            },
+            "IsEdit": false,
+            "Status": 2,
+            "Message": {
+                "conversation": "Ola",
+                "messageContextInfo": {
+                    "messageSecret": "kauwZgqr8Dk4vS5w7IfXjtd/LRLkat+QVS2w0IFqPwU=",
+                    "deviceListMetadata": {
+                        "senderKeyHash": "E4oF886+3ZHdVQ==",
+                        "senderTimestamp": 1773878328,
+                        "recipientKeyHash": "ceiUi9YLgl7fKA==",
+                        "recipientTimestamp": 1773272739
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "IsViewOnce": false,
+            "RawMessage": {
+                "deviceSentMessage": {
+                    "message": {
+                        "conversation": "Ola",
+                        "messageContextInfo": {
+                            "messageSecret": "kauwZgqr8Dk4vS5w7IfXjtd/LRLkat+QVS2w0IFqPwU=",
+                            "deviceListMetadata": {
+                                "senderKeyHash": "E4oF886+3ZHdVQ==",
+                                "senderTimestamp": 1773878328,
+                                "recipientKeyHash": "ceiUi9YLgl7fKA==",
+                                "recipientTimestamp": 1773272739
+                            },
+                            "deviceListMetadataVersion": 2
+                        }
+                    },
+                    "destinationJID": "184216029507679@lid"
+                },
+                "messageContextInfo": {
+                    "messageSecret": "kauwZgqr8Dk4vS5w7IfXjtd/LRLkat+QVS2w0IFqPwU=",
+                    "deviceListMetadata": {
+                        "senderKeyHash": "E4oF886+3ZHdVQ==",
+                        "senderTimestamp": 1773878328,
+                        "recipientKeyHash": "ceiUi9YLgl7fKA==",
+                        "recipientTimestamp": 1773272739
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "RetryCount": 0,
+            "IsBotInvoke": false,
+            "IsEphemeral": false,
+            "IsViewOnceV2": false,
+            "SourceWebMsg": null,
+            "NewsletterMeta": null,
+            "IsLottieSticker": false,
+            "UnavailableRequestID": "",
+            "IsDocumentWithCaption": false,
+            "IsViewOnceV2Extension": false
+        },
+        "media": null,
+        "fromMe": true,
+        "source": "app",
+        "vCards": null,
+        "ackName": "SERVER",
+        "replyTo": null,
+        "hasMedia": false,
+        "location": null,
+        "timestamp": 1773878621,
+        "participant": null
+    },
+    "session": "rafaelwizer",
+    "metadata": {},
+    "timestamp": 1773878621206,
+    "environment": {
+        "tier": "PLUS",
+        "engine": "GOWS",
+        "worker": {
+            "id": null
+        },
+        "browser": null,
+        "version": "2026.3.2",
+        "platform": "linux/x64"
+    }
+}

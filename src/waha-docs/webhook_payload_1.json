@@ -1,0 +1,162 @@
+{
+    "id": "evt_01km1pfkt15r2bsbp1ajcskn5z",
+    "me": {
+        "id": "555195702527@c.us",
+        "jid": "555195702527:30@s.whatsapp.net",
+        "lid": "187179103961088@lid",
+        "pushName": "Rafael Franskowiak"
+    },
+    "event": "message.any",
+    "payload": {
+        "id": "true_555199805553@c.us_3EB07F5DA40895B048BBD2",
+        "to": null,
+        "ack": 1,
+        "body": "tudo bem",
+        "from": "555199805553@c.us",
+        "_data": {
+            "Info": {
+                "ID": "3EB07F5DA40895B048BBD2",
+                "Chat": "555199805553@s.whatsapp.net",
+                "Edit": "",
+                "Type": "text",
+                "Sender": "555195702527:29@s.whatsapp.net",
+                "IsGroup": false,
+                "Category": "",
+                "IsFromMe": true,
+                "PushName": "Rafael Franskowiak",
+                "ServerID": 0,
+                "MediaType": "",
+                "Multicast": false,
+                "SenderAlt": "187179103961088:29@lid",
+                "Timestamp": "2026-03-18T21:03:47-03:00",
+                "MsgBotInfo": {
+                    "EditType": "",
+                    "EditTargetID": "",
+                    "EditSenderTimestampMS": "0001-01-01T00:00:00Z"
+                },
+                "MsgMetaInfo": {
+                    "TargetID": "",
+                    "TargetChat": "",
+                    "TargetSender": "",
+                    "ThreadMessageID": "",
+                    "DeprecatedLIDSession": null,
+                    "ThreadMessageSenderJID": ""
+                },
+                "RecipientAlt": "184216029507679@lid",
+                "VerifiedName": {
+                    "Details": {
+                        "issuer": "smb:wa",
+                        "serial": 6968926277353474000,
+                        "verifiedName": "Rafael Franskowiak"
+                    },
+                    "Certificate": {
+                        "details": "CNSTqNzrsKbbYBIGc21iOndhIhJSYWZhZWwgRnJhbnNrb3dpYWs=",
+                        "signature": "NmvtW+OG4ntzq/NqGsSo3owmgauLTwOMbu7rXwha509I90OsCtsYEwrAkUTFSUc0/vQlxIMBfQOtNtgB9EDGDw=="
+                    }
+                },
+                "AddressingMode": "",
+                "DeviceSentMeta": {
+                    "Phash": "",
+                    "DestinationJID": "555199805553@s.whatsapp.net"
+                },
+                "BroadcastListOwner": "",
+                "BroadcastRecipients": null
+            },
+            "IsEdit": false,
+            "Status": 2,
+            "Message": {
+                "conversation": "tudo bem",
+                "messageContextInfo": {
+                    "messageSecret": "oWQ0M95XOuxn566WzhWAaYJ3B2suyW9eidCZpC/LDNU=",
+                    "limitSharingV2": {
+                        "trigger": 0,
+                        "initiatedByMe": false
+                    },
+                    "deviceListMetadata": {
+                        "senderKeyHash": "E4oF886+3ZHdVQ==",
+                        "senderTimestamp": 1773878328,
+                        "recipientKeyHash": "ceiUi9YLgl7fKA==",
+                        "senderAccountType": 0,
+                        "recipientTimestamp": 1773272739,
+                        "receiverAccountType": 0
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "IsViewOnce": false,
+            "RawMessage": {
+                "deviceSentMessage": {
+                    "message": {
+                        "conversation": "tudo bem",
+                        "messageContextInfo": {
+                            "messageSecret": "oWQ0M95XOuxn566WzhWAaYJ3B2suyW9eidCZpC/LDNU=",
+                            "limitSharingV2": {
+                                "trigger": 0,
+                                "initiatedByMe": false
+                            },
+                            "deviceListMetadata": {
+                                "senderKeyHash": "E4oF886+3ZHdVQ==",
+                                "senderTimestamp": 1773878328,
+                                "recipientKeyHash": "ceiUi9YLgl7fKA==",
+                                "senderAccountType": 0,
+                                "recipientTimestamp": 1773272739,
+                                "receiverAccountType": 0
+                            },
+                            "deviceListMetadataVersion": 2
+                        }
+                    },
+                    "destinationJID": "555199805553@s.whatsapp.net"
+                },
+                "messageContextInfo": {
+                    "messageSecret": "oWQ0M95XOuxn566WzhWAaYJ3B2suyW9eidCZpC/LDNU=",
+                    "limitSharingV2": {
+                        "trigger": 0,
+                        "initiatedByMe": false
+                    },
+                    "deviceListMetadata": {
+                        "senderKeyHash": "E4oF886+3ZHdVQ==",
+                        "senderTimestamp": 1773878328,
+                        "recipientKeyHash": "ceiUi9YLgl7fKA==",
+                        "senderAccountType": 0,
+                        "recipientTimestamp": 1773272739,
+                        "receiverAccountType": 0
+                    },
+                    "deviceListMetadataVersion": 2
+                }
+            },
+            "RetryCount": 0,
+            "IsBotInvoke": false,
+            "IsEphemeral": false,
+            "IsViewOnceV2": false,
+            "SourceWebMsg": null,
+            "NewsletterMeta": null,
+            "IsLottieSticker": false,
+            "UnavailableRequestID": "",
+            "IsDocumentWithCaption": false,
+            "IsViewOnceV2Extension": false
+        },
+        "media": null,
+        "fromMe": true,
+        "source": "app",
+        "vCards": null,
+        "ackName": "SERVER",
+        "replyTo": null,
+        "hasMedia": false,
+        "location": null,
+        "timestamp": 1773878627,
+        "participant": null
+    },
+    "session": "rafaelwizer",
+    "metadata": {},
+    "timestamp": 1773878628161,
+    "environment": {
+        "tier": "PLUS",
+        "engine": "GOWS",
+        "worker": {
+            "id": null
+        },
+        "browser": null,
+        "version": "2026.3.2",
+        "platform": "linux/x64"
+    }
+}
